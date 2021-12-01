@@ -1,7 +1,7 @@
 # inha-university
 <br>
 <h2>
-클론코딩 페이지 - https://heoyunjeong.github.io/inha-university
+클론코딩 페이지 - https://heoyunjeong.github.io/inha-university/
 </h2>
 
 <h2>
